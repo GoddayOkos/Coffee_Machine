@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee_Machine.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee_Machine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine.Coffee_Machine-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine.Coffee_Machine-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine.Coffee_Machine-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine.Coffee_Machine-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine.Coffee_Machine-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine.Coffee_Machine-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Car speed/Coffee_Machine.Problems-Car_speed.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Car speed/Coffee_Machine.Problems-Car_speed.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Car speed/Coffee_Machine.Problems-Car_speed.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Car speed/Coffee_Machine.Problems-Car_speed.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Car speed/Coffee_Machine.Problems-Car_speed.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Car speed/Coffee_Machine.Problems-Car_speed.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Currencies/Coffee_Machine.Problems-Currencies.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Currencies/Coffee_Machine.Problems-Currencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Currencies/Coffee_Machine.Problems-Currencies.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Currencies/Coffee_Machine.Problems-Currencies.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Currencies/Coffee_Machine.Problems-Currencies.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Currencies/Coffee_Machine.Problems-Currencies.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Currency comparison/Coffee_Machine.Problems-Currency_comparison.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Currency comparison/Coffee_Machine.Problems-Currency_comparison.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Currency comparison/Coffee_Machine.Problems-Currency_comparison.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Currency comparison/Coffee_Machine.Problems-Currency_comparison.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Currency comparison/Coffee_Machine.Problems-Currency_comparison.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Currency comparison/Coffee_Machine.Problems-Currency_comparison.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Deposit/Coffee_Machine.Problems-Deposit.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Deposit/Coffee_Machine.Problems-Deposit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Deposit/Coffee_Machine.Problems-Deposit.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Deposit/Coffee_Machine.Problems-Deposit.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Deposit/Coffee_Machine.Problems-Deposit.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Deposit/Coffee_Machine.Problems-Deposit.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Gratuity/Coffee_Machine.Problems-Gratuity.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Gratuity/Coffee_Machine.Problems-Gratuity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Gratuity/Coffee_Machine.Problems-Gratuity.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Gratuity/Coffee_Machine.Problems-Gratuity.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Gratuity/Coffee_Machine.Problems-Gratuity.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Gratuity/Coffee_Machine.Problems-Gratuity.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Manager/Coffee_Machine.Problems-Manager.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Manager/Coffee_Machine.Problems-Manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Manager/Coffee_Machine.Problems-Manager.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Manager/Coffee_Machine.Problems-Manager.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Manager/Coffee_Machine.Problems-Manager.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Manager/Coffee_Machine.Problems-Manager.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Rainbow colors/Coffee_Machine.Problems-Rainbow_colors.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Rainbow colors/Coffee_Machine.Problems-Rainbow_colors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Rainbow colors/Coffee_Machine.Problems-Rainbow_colors.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Rainbow colors/Coffee_Machine.Problems-Rainbow_colors.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Rainbow colors/Coffee_Machine.Problems-Rainbow_colors.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Rainbow colors/Coffee_Machine.Problems-Rainbow_colors.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Weather comparison/Coffee_Machine.Problems-Weather_comparison.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Weather comparison/Coffee_Machine.Problems-Weather_comparison.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Weather comparison/Coffee_Machine.Problems-Weather_comparison.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Weather comparison/Coffee_Machine.Problems-Weather_comparison.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Weather comparison/Coffee_Machine.Problems-Weather_comparison.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Weather comparison/Coffee_Machine.Problems-Weather_comparison.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Coffee_Machine.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Coffee_Machine.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Coffee_Machine.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Coffee_Machine.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Coffee_Machine.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Coffee_Machine.util.test.iml" />
+    </modules>
+  </component>
+</project>
